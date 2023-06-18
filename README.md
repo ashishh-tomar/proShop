@@ -4,9 +4,9 @@
 
 <img src="./frontend/public/images/screens.png">
 
-It is a full-featured shopping cart Porject. See it in action at https://www.proshopdemo.dev
+It is a full-featured shopping cart Porject. See it in action at [ https://www.proshopdemo.dev](https://proshop-hje4.onrender.com)
 
-This is version 2.0 of the app, which uses Redux Toolkit. The first version can be found [here]([https://proshopdemo.dev](https://proshop-hje4.onrender.com))
+This is version of the app uses Redux Toolkit./
 
 ## Features
 
