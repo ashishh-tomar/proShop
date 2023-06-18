@@ -39,6 +39,8 @@ app.use('/api/upload',uploadRoutes);
 const __dirname = path.resolve(); // set dirname to current directoy
 app.use('/uploads',express.static(path.join(__dirname,'uploads')));
 
+
+
 app.use(notFound);
 app.use(errorHandler);
 

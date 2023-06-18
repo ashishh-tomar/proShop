@@ -1,6 +1,6 @@
 import {Link,useParams} from 'react-router-dom'
 import {Row, Col, ListGroup, Image,Button, Card} from 'react-bootstrap'
-import {PayPalButtons, usePayPalScriptReducer} from '@paypal/react-paypal-js'
+import { usePayPalScriptReducer} from '@paypal/react-paypal-js'
 import Message from '../components/Message';
 import Loader from '../components/Loader'
 import {useGetOrderDetailsQuery, usePayOrderMutation, useGetPayPalClientIdQuery, useDeliverOrderMutation} from '../slices/ordersApiSlice';
