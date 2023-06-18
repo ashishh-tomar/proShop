@@ -6,7 +6,7 @@
 
 It is a full-featured shopping cart Porject. See it in action at [ https://www.proshopdemo.dev](https://proshop-hje4.onrender.com)
 
-This is version of the app uses Redux Toolkit./
+This is version of the app uses Redux Toolkit.
 
 ## Features
 
